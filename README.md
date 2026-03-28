@@ -12,7 +12,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Complete-00C853?style=flat-square)]()
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)]()
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=flat-square)]()
+
 
 <br/>
 
@@ -212,10 +212,10 @@ jupyter
 <div align="center">
 
 ### ⭐ If ChurnSense helped or impressed you — drop a star!
-*It takes 1 second and means the world* 🌟
+
 
 ---
 
-*Built with ❤️, Python, and way too much ☕ — ChurnSense © 2026*
+*Built with  Python, and way too much ☕ — ChurnSense © 2026*
 
 </div>
